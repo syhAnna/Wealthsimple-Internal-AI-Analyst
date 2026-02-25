@@ -141,5 +141,3 @@ export async function deleteSchema(id: string): Promise<void> {
     }
   })
 }
-
-// Made with Bob

@@ -18,5 +18,3 @@ process.on("SIGTERM", async () => {
 process.on("SIGINT", async () => {
   await pool.end()
 })
-
-// Made with Bob

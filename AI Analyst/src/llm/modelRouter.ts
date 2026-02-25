@@ -79,5 +79,3 @@ function calculateComplexity(input: string): number {
 export function getEmbeddingModel(): string {
   return "text-embedding-3-small";
 }
-
-// Made with Bob

@@ -126,5 +126,3 @@ export function shouldAllowQuery(
 
   return { allowed: true };
 }
-
-// Made with Bob

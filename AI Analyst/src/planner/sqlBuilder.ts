@@ -204,5 +204,3 @@ export function validateSQL(sql: string): boolean {
   
   return true;
 }
-
-// Made with Bob

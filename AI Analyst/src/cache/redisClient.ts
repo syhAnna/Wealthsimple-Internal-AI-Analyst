@@ -89,5 +89,3 @@ class RedisClient {
 }
 
 export default RedisClient;
-
-// Made with Bob

@@ -185,5 +185,3 @@ class FeedbackService {
 }
 
 export default FeedbackService;
-
-// Made with Bob

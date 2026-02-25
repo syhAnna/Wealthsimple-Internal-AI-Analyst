@@ -30,5 +30,3 @@ jobs:
             ${{ secrets.DOCKER_USERNAME }}/ai-analyst:${{ github.sha }}
           cache-from: type=registry,ref=${{ secrets.DOCKER_USERNAME }}/ai-analyst:buildcache
           cache-to: type=registry,ref=${{ secrets.DOCKER_USERNAME }}/ai-analyst:buildcache,mode=max
-
-# Made with Bob

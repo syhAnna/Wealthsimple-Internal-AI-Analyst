@@ -115,5 +115,3 @@ class AuditLogger {
 }
 
 export const auditLogger = new AuditLogger()
-
-// Made with Bob

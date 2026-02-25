@@ -249,5 +249,3 @@ main().catch((error) => {
   console.error("Evaluation failed:", error);
   process.exit(1);
 });
-
-// Made with Bob

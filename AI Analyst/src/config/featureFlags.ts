@@ -46,5 +46,3 @@ export function logFeatureFlags(): void {
     console.log(`  ${key}: ${value}`)
   })
 }
-
-// Made with Bob

@@ -793,14 +793,6 @@ Built with:
 
 ---
 
-## 📞 Contact
-
-**Built by:** Bob (AI Systems Engineer Candidate)  
-**For:** Wealthsimple AI Analyst Position  
-**Date:** 2024
-
----
-
 **⭐ This is a production-grade AI platform demonstrating:**
 
 - ✅ Enterprise architecture patterns

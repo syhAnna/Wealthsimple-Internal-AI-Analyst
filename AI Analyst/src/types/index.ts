@@ -70,5 +70,3 @@ export interface AnalystResponse {
   error?: string;
   timestamp: string;
 }
-
-// Made with Bob

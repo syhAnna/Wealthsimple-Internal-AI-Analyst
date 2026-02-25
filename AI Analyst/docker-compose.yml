@@ -84,5 +84,3 @@ volumes:
     driver: local
   postgres-data:
     driver: local
-
-# Made with Bob

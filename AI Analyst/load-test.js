@@ -98,5 +98,3 @@ function textSummary(data, options) {
 
   return summary;
 }
-
-// Made with Bob

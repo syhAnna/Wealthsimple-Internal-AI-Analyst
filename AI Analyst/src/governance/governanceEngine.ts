@@ -284,5 +284,3 @@ export function createAuditLog(
     approved: governance.approved
   };
 }
-
-// Made with Bob

@@ -89,5 +89,3 @@ CREATE INDEX idx_support_tickets_user_id ON support_tickets(user_id);
 -- Grant read-only access (for production safety)
 -- In production, you would create a separate read-only user
 GRANT SELECT ON ALL TABLES IN SCHEMA public TO analyst;
-
--- Made with Bob

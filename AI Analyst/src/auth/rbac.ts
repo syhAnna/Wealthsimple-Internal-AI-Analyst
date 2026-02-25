@@ -199,5 +199,3 @@ export function getRateLimitForRole(role: UserRole): { windowMs: number; max: nu
       return { windowMs: 60000, max: 50 }; // 50 requests per minute for unknown
   }
 }
-
-// Made with Bob

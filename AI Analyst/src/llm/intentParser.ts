@@ -102,5 +102,3 @@ export function validateIntent(intent: ParsedIntent): boolean {
   
   return true;
 }
-
-// Made with Bob

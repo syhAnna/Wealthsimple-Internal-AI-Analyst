@@ -310,5 +310,3 @@ export async function startServer(): Promise<void> {
 }
 
 export default app;
-
-// Made with Bob

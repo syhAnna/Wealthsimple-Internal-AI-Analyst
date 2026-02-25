@@ -80,5 +80,3 @@ export async function testConnection(): Promise<boolean> {
     return false
   }
 }
-
-// Made with Bob

@@ -107,5 +107,3 @@ export function validateExpression(expr: Expr): boolean {
       return false;
   }
 }
-
-// Made with Bob

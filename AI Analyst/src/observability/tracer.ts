@@ -97,5 +97,3 @@ export function getCurrentTraceId(): string | undefined {
 export async function shutdownTracer(): Promise<void> {
   await provider.shutdown();
 }
-
-// Made with Bob

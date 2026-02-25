@@ -93,5 +93,3 @@ spec:
                       values:
                         - ai-analyst
                 topologyKey: kubernetes.io/hostname
-
-# Made with Bob

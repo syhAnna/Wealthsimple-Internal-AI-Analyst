@@ -62,5 +62,3 @@ async function main(): Promise<void> {
 
 // Run application
 main();
-
-// Made with Bob

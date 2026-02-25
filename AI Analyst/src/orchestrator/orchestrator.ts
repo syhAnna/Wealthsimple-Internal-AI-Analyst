@@ -368,5 +368,3 @@ export async function healthCheck(): Promise<{
     uptime: process.uptime()
   };
 }
-
-// Made with Bob

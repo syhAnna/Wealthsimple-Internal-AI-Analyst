@@ -92,5 +92,3 @@ export function getSchemaByName(name: string): SchemaDoc | undefined {
 export function listAllSchemas(): SchemaDoc[] {
   return schemaDocs.map(({ name, description }) => ({ name, description }));
 }
-
-// Made with Bob

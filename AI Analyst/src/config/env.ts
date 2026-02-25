@@ -61,5 +61,3 @@ export function isProduction(): boolean {
 export function isDevelopment(): boolean {
   return process.env.NODE_ENV === "development" || !process.env.NODE_ENV
 }
-
-// Made with Bob
