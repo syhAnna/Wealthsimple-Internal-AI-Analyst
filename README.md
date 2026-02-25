@@ -181,8 +181,8 @@ Traditional BI tools require SQL expertise. LLM-based solutions often lack gover
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/wealthsimple/ai-analyst.git
-cd ai-analyst
+git clone https://github.com/syhAnna/Wealthsimple-Internal-AI-Analyst.git
+cd AI Analyst
 ```
 
 2. **Set up environment variables**
