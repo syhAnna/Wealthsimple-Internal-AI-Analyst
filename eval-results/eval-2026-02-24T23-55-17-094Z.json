@@ -1,0 +1,265 @@
+{
+  "timestamp": "2026-02-24T23:55:17.095Z",
+  "models": [
+    {
+      "modelName": "gpt-4o-mini",
+      "accuracy": 0,
+      "avgLatency": 1921.5,
+      "avgScore": 0,
+      "totalTests": 12,
+      "passedTests": 0,
+      "results": [
+        {
+          "testId": "churn-1",
+          "input": "Show customer churn rate by cohort for last 6 months",
+          "passed": false,
+          "score": 0,
+          "latency": 2469,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "active-users-1",
+          "input": "Total active users last month",
+          "passed": false,
+          "score": 0,
+          "latency": 4446,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "revenue-1",
+          "input": "Revenue by product category",
+          "passed": false,
+          "score": 0,
+          "latency": 1946,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "ltv-1",
+          "input": "Customer lifetime value analysis",
+          "passed": false,
+          "score": 0,
+          "latency": 1445,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "mrr-1",
+          "input": "Monthly recurring revenue trend",
+          "passed": false,
+          "score": 0,
+          "latency": 2239,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "conversion-1",
+          "input": "Conversion rate from trial to paid in Q4",
+          "passed": false,
+          "score": 0,
+          "latency": 1524,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "retention-1",
+          "input": "30-day retention rate by acquisition channel",
+          "passed": false,
+          "score": 0,
+          "latency": 1417,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "arpu-1",
+          "input": "Average revenue per user this quarter",
+          "passed": false,
+          "score": 0,
+          "latency": 1512,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "dau-1",
+          "input": "Daily active users for the past week",
+          "passed": false,
+          "score": 0,
+          "latency": 1661,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "cac-1",
+          "input": "Customer acquisition cost by marketing channel",
+          "passed": false,
+          "score": 0,
+          "latency": 1428,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "complex-1",
+          "input": "Compare revenue growth rate between enterprise and SMB segments year over year",
+          "passed": false,
+          "score": 0,
+          "latency": 1469,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "risk-1",
+          "input": "Show high-risk transactions over $10,000 in the last 24 hours",
+          "passed": false,
+          "score": 0,
+          "latency": 1502,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "gpt-4o",
+      "accuracy": 0,
+      "avgLatency": 1604.1666666666667,
+      "avgScore": 0,
+      "totalTests": 12,
+      "passedTests": 0,
+      "results": [
+        {
+          "testId": "churn-1",
+          "input": "Show customer churn rate by cohort for last 6 months",
+          "passed": false,
+          "score": 0,
+          "latency": 1613,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "active-users-1",
+          "input": "Total active users last month",
+          "passed": false,
+          "score": 0,
+          "latency": 1665,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "revenue-1",
+          "input": "Revenue by product category",
+          "passed": false,
+          "score": 0,
+          "latency": 1494,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "ltv-1",
+          "input": "Customer lifetime value analysis",
+          "passed": false,
+          "score": 0,
+          "latency": 1745,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "mrr-1",
+          "input": "Monthly recurring revenue trend",
+          "passed": false,
+          "score": 0,
+          "latency": 1597,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "conversion-1",
+          "input": "Conversion rate from trial to paid in Q4",
+          "passed": false,
+          "score": 0,
+          "latency": 1689,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "retention-1",
+          "input": "30-day retention rate by acquisition channel",
+          "passed": false,
+          "score": 0,
+          "latency": 1643,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "arpu-1",
+          "input": "Average revenue per user this quarter",
+          "passed": false,
+          "score": 0,
+          "latency": 1594,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "dau-1",
+          "input": "Daily active users for the past week",
+          "passed": false,
+          "score": 0,
+          "latency": 1636,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "cac-1",
+          "input": "Customer acquisition cost by marketing channel",
+          "passed": false,
+          "score": 0,
+          "latency": 1571,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "complex-1",
+          "input": "Compare revenue growth rate between enterprise and SMB segments year over year",
+          "passed": false,
+          "score": 0,
+          "latency": 1537,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        },
+        {
+          "testId": "risk-1",
+          "input": "Show high-risk transactions over $10,000 in the last 24 hours",
+          "passed": false,
+          "score": 0,
+          "latency": 1466,
+          "errors": [
+            "Exception: Failed to parse user intent"
+          ]
+        }
+      ]
+    }
+  ]
+}
