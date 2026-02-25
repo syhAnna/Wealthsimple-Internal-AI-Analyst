@@ -5,5 +5,3 @@ metadata:
   labels:
     name: ai-analyst
     environment: production
-
-# Made with Bob
