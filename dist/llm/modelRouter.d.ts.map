@@ -1,0 +1,1 @@
+{"version":3,"file":"modelRouter.d.ts","sourceRoot":"","sources":["../../src/llm/modelRouter.ts"],"names":[],"mappings":"AAGA,MAAM,WAAW,oBAAoB;IACnC,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,EAAE,MAAM,CAAC;IACf,aAAa,EAAE,KAAK,GAAG,QAAQ,GAAG,MAAM,CAAC;CAC1C;AAED;;;;;;;GAOG;AACH,wBAAgB,WAAW,CAAC,SAAS,EAAE,MAAM,GAAG,oBAAoB,CA2BnE;AA+BD;;GAEG;AACH,wBAAgB,iBAAiB,IAAI,MAAM,CAE1C"}
